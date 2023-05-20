@@ -34,7 +34,7 @@ const projectList = [
     title: "Build a Gift Declaration solution with the Power Platform",
     description:
       "A solution I developed using the Power Platform as part of a program  to get young talent Microsoft Certified in Power Platform.",
-    url: "aka.ms/GiftDeclaration",
+    url: "https://aka.ms/GiftDeclaration",
   },
 ];
 
