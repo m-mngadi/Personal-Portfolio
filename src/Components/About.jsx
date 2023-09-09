@@ -24,7 +24,7 @@ const imageAltText = "Aerial view photography of group of people walking on gray
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a BTech Information Technology and Communications student studying at " + 
+  "I'm a VaristyGenie Guru, Microsoft Learn Student Ambassador and BTech Information Technology and Communications student studying at " + 
   "the Durban University of Technology. I create occasionally build the simple " + 
   "app using the Power Platforms' Power Apps and Power Automate. " +
   "I discovered an interest in UI/UX design as a result of building Power Apps, " + 
@@ -36,11 +36,16 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "JavaScript",
+  "HTML/CSS",
+  "Python",
+  "Git",
+  "SQL",
+  "Sharepoint Online",
+  "Office 365",
   "Power Apps",
   "Power Automate",
-  "User experience",
-  "User interface",
-  "Animation"
+  "UI/UX Design"
 ];
 
 /**
